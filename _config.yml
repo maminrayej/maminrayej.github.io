@@ -13,14 +13,14 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Tehran
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: M.Amin Rayej
 
-tagline: Rust Developer 
+tagline: Rust Developer
 
 description: >- # used by seo meta and the atom feed
   Rust system development blog. Tutorials for low-level programming enthusiasts.
@@ -41,7 +41,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/maminrayej 
     - https://twitter.com/maminrayej 
-    - https://www.linkedin.com/in/maminrayej
+    - https://linkedin.com/in/maminrayej
 
 google_site_verification: # fill in to your verification string
 
