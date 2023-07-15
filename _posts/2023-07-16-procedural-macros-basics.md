@@ -5,4 +5,4 @@ categories: [Tutorial, Procedural Macro]
 tags: [macro, tutorial, project]
 ---
 
-Work in progress... 	&#9935;&#65039;
+Work in progress...	&#9935;&#65039;
